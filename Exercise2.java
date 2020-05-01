@@ -1,7 +1,6 @@
 import java.util.Scanner;
 public class Exercise2{
         public static void main(String[] args){
-            //uncomment next line if program requires input
             	Scanner input = new Scanner(System.in);
             	int number1 = 0;
             	int number2 = 0;
