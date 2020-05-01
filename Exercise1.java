@@ -1,9 +1,8 @@
-import java.util.Scanner;
 
 public class Exercise1{
         public static void main(String[] args){
             //uncomment next line if program requires input
-            	Scanner input = new Scanner(System.in);
+
 
                 String name = "Mary";
                 String color = "red";
