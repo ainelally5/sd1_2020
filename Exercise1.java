@@ -1,7 +1,6 @@
 
 public class Exercise1{
         public static void main(String[] args){
-            //uncomment next line if program requires input
 
 
                 String name = "Mary";
